@@ -1,0 +1,12 @@
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/bin/Debug/netcoreapp3.1/Arrays1.deps.json
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/bin/Debug/netcoreapp3.1/Arrays1.runtimeconfig.json
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/bin/Debug/netcoreapp3.1/Arrays1.runtimeconfig.dev.json
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/bin/Debug/netcoreapp3.1/Arrays1.dll
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/bin/Debug/netcoreapp3.1/Arrays1.pdb
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.csprojAssemblyReference.cache
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.AssemblyInfoInputs.cache
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.AssemblyInfo.cs
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.csproj.CoreCompileInputs.cache
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.dll
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.pdb
+/Users/fekadesenbeta/Projects/Arrays1/Arrays1/obj/Debug/netcoreapp3.1/Arrays1.genruntimeconfig.cache
